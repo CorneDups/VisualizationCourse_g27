@@ -1,0 +1,17 @@
+ul li { color: blue; }
+h1 { color: red; }
+a { font-weight: bold;}
+.unimportant {
+    opacity: 0.5
+}
+p {
+    max-width: 400px;
+}
+#paragraph_5 { font-family: cursive; }
+p:hover {
+    background-color: aqua;
+}
+p::first-letter {
+    font-size: larger;
+    font-weight: bolder;
+}

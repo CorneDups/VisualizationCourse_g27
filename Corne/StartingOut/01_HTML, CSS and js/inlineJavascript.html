@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>My HTML file</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <p>We can use javascript to add additional functionality to a site.</p>
+        <button onclick="handleClick()">Increment the counter</button>
+
+        <p id="demo"></p>
+
+        <script>
+            let count = 0;
+            function handleClick() {
+                count += 1
+                document.getElementById("demo").innerHTML = "You clicked the button " + count + " times."
+            }
+        </script>
+    </body>
+</html>

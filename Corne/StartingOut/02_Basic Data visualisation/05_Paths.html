@@ -1,0 +1,19 @@
+<!--Tutorial on paths: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths-->
+
+<style>
+    path {
+        fill: none;
+        stroke: black;
+        stroke-width: 3px;
+    }
+</style>
+
+<svg width="200" height="200">
+    <path d="M 0,200 L 100,50 L 100,150 L 200,0" />
+</svg>
+
+<!--So M moves the pen across the paper without touching the paper; L does so with touching the paper. We can illustrate this by replacing one of the L s above into an M.-->
+
+<!--Relative positions
+The coordinates given for M and L are the absolute coordinates within the SVG element. We can also give positions that are relative to the current position. We do this using the lowercase m and l. This means that M 50,50 L 50,100 L 100,50 is the same as M 50,50 l 0,50 l 50,-50.-->
+

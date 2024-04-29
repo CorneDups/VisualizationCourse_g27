@@ -1,0 +1,62 @@
+<!--Arcs are tricky in SVG, so definitely check out the path tutorial at https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths if you need them.-->
+
+<!--As with the bezier curves, a curve starts from a certain point that is already defined in the path. So you will need for example a M or L directive before the arc itself. The arc is drawing using the A directive, which takes the following arguments:
+
+radius in x-direction rx
+
+radius in y-direction ry
+
+rotation around x axis
+
+large-arc-flag
+
+sweep-flag
+
+x coordinate of end point
+
+y coordinate of end point-->
+
+<!--Simple Arc -->
+
+<style>
+    path {
+        fill: orange;
+        stroke: black;
+        stroke-width: 3px;
+    }
+</style>
+
+<svg width="200" height="200">
+	<path d="M 50 50 A 2 1 -45 0 1 50 150" />
+</svg>
+
+<!--Complicated Arc-->
+
+<style>
+    path {
+        stroke: red;
+        stroke-width: 5;
+        fill-opacity: 0.5
+    }
+    path.smallarc {
+        fill: blue;
+    }
+    path.largearc {
+        fill: green;
+    }
+    circle {
+        fill: steelblue;
+    }
+    svg {
+        border: 1px;
+        border-style: solid;
+    }
+</style>
+
+<svg width="400" height="200">
+    <circle cx="50" cy="50" r="5" />
+    <circle cx="50" cy="150" r="5" />
+    <circle cx="50" cy="100" r="5" />
+    <path d="M 50 50 A 4 1 0 0 1 50 100" class="smallarc"/>
+    <path d="M 50 50 A 4 1 0 0 1 50 150" class="largearc"/>
+</svg>

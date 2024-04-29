@@ -1,0 +1,19 @@
+<script>
+	// Define a immutable variable and print its value
+let oldString = 'Hello';
+// Let's try to modify oldString by transforming the text to uppercase
+let newString = oldString.toUpperCase();
+
+console.log(newString); // 'HELLO'
+console.log(oldString); // 'Hello'
+
+	// Define a mutable variable and print its value
+let oldPerson = {name: 'Ismo'};
+let newPerson = oldPerson; // I assume I'm creating a copy... right?
+newPerson.name = 'Seppo';
+console.log(oldPerson.name); // Oops, both persons now have 'Seppo' as their name.
+	
+	// Try to assign a value to the immutable variable
+	// What happens?
+	
+</script>

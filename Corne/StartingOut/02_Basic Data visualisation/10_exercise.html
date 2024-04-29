@@ -1,0 +1,32 @@
+<html>
+<head>
+    <script>
+        // Constants for SVG dimensions and margins
+        const width = 436;
+        const height = 300;
+        const margin = { top: 10, right: 10, bottom: 50, left: 50 };
+    
+        // Calculating the dimensions of the inner content area
+        const innerWidth = width - margin.left - margin.right;
+        const innerHeight = height - margin.top - margin.bottom;
+    </script>
+    
+    <!-- SVG container with specified width and height -->
+    <svg {width} {height}>
+        <!-- Group element for margins translation -->
+        <g transform={`translate(${margin.left},${margin.top})`}>
+            <!-- Rectangle to fill the content area -->
+            <rect width={innerWidth} height={innerHeight}></rect>
+        </g>
+    </svg>
+    
+    <style>
+        svg {
+            background-color: skyblue;
+        }
+        rect {
+            fill: teal;
+        }
+    </style>
+</body>
+</html>

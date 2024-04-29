@@ -1,0 +1,28 @@
+{
+    "id": 12345,
+    "common_name": "BRCA2",
+    "names": ["BRCA2", "ENST00000544455.6", "FACD", "FANCD1"],
+    "description": "Breast cancer type 2 susceptibility protein",
+    "location": {
+      "genome_build": "hg38",
+      "chromosome": "13",
+      "start": 32315086,
+      "end": 32400268,
+      "strand": "+"
+    },
+    "diseases": [
+      {
+        "name": "breast cancer",
+        "description": "Defects in BRCA2 are a cause of susceptibility to breast cancer (BC)"
+      },
+      {
+        "name": "BROVCA2",
+        "description": "Defects in BRCA2 are involved in familial breast-ovarian cancer type 2"
+      },
+      {
+        "name": "FANCD1",
+        "description": "Defects in BRCA2 are the cause of Fanconi anemia complementation group D type 1"
+      }
+    ]
+  }
+  
