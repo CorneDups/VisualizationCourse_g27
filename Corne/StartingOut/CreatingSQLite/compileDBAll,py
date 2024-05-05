@@ -3,7 +3,7 @@ import sqlite3
 import os
 
 # Set the directory containing the CSV files
-directory = 'C:/Users/u0164160/OneDrive - KU Leuven/Documents/GitHub/suncharge/dataToDB'
+directory = '/Users/keziahdutt/Documents/GitHub/VisualizationCourse_g27/Keziah'
 
 # Create an SQLite database
 db_path = os.path.join(directory, 'allSunChargeData.db')
