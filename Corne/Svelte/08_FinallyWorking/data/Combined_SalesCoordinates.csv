@@ -1,0 +1,23 @@
+CustomerCountry,TotalSales,RowCount,Latitude,Longitude,PlantKey,PlantCountry
+Belgium,97907,5453,50.5039,4.4699,4,Belgium
+Croatia,46698,2602,45.1,15.2,6,France
+Czech Republic,133705,7398,49.8175,15.473,5,Poland
+Denmark,8295,467,56.2639,9.5018,8,Sweden
+Estonia,10152,565,58.5953,25.0136,8,Sweden
+Finland,36983,2056,61.9241,25.7482,8,Sweden
+France,197019,10907,46.2276,2.2137,6,France
+Germany,618487,34358,51.1657,10.4515,4,Belgium
+Greece,83301,4645,39.0742,21.8243,5,Poland
+Hungary,11650,654,47.1625,19.5033,5,Poland
+Italy,10653,588,41.8719,12.5674,6,France
+Latvia,5861,324,56.8796,24.6032,8,Sweden
+Lithuania,14127,785,55.1694,23.8813,8,Sweden
+Netherlands,22246,1236,52.1326,5.2913,4,Belgium
+Norway,31441,1738,60.472,8.4689,8,Sweden
+Poland,112139,6235,51.9194,19.1451,5,Poland
+Portugal,96197,5329,39.3999,-8.2245,6,France
+Slovenia,24848,1383,46.1512,14.9955,6,France
+Spain,18646,1043,40.4637,-3.7492,6,France
+Sweden,207515,11532,60.1282,18.6435,8,Sweden
+Switzerland,1361,74,46.8182,8.2275,6,France
+United Kingdom,11226,628,55.3781,-3.436,7,England

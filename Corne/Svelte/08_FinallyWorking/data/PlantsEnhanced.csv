@@ -1,0 +1,9 @@
+index,PlantKey,Plant,PlantType,PlantName,PlantCity,PlantPostalCode,PlantStreet,PlantCountry,Latitude,Longitude,TotalOrderQuantityForDistributionCentre
+1,1,ANT1,Production,Antwerp Production,Antwerpen,2030,Scheldelaan,Belgium,51.2194,4.4025,0
+2,2,WRO1,Production,Wrocław Production,Wrocław,54-202,Legnicka,Poland,51.1079,17.0385,0
+3,3,LYO1,Production,Lyon Production,Lyon,69160,Av. Mathieu Misery,France,45.764,4.8357,0
+4,4,ANT2,Distribution Center,Antwerp DC,Antwerpen,2030,Scheldelaan,Belgium,51.2194,4.4025,738640
+5,5,WRO2,Distribution Center,Wrocław DC,Wrocław,54-202,Legnicka,Poland,51.1079,17.0385,340795
+6,6,LYO2,Distribution Center,Lyon DC,Lyon,69160,Av. Mathieu Misery,France,45.764,4.8357,395422
+7,7,BIR2,Distribution Center,Birmingham DC,Birmingham,B14 7PQ,Howard Rd,England,52.4862,-1.8904,11226
+8,8,GOT2,Distribution Center,Göteborg DC,Gothenburg,418 78,Assar Gabrielssons väg,Sweden,57.7089,11.9746,314374

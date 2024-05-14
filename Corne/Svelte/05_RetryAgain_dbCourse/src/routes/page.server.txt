@@ -1,0 +1,21 @@
+import db from '$lib/db';
+
+export const load = () => {
+    const fetchData = async () => {
+        let sales = await db.select('*')
+                                .from('sales')
+                                .limit(2)
+        // return sales
+        return JSON.parse(JSON.stringify(sales))
+    }
+    return {
+        sales: fetchData()
+    }
+}
+
+// export const load = async () => {
+//     const sales = await fetchData();
+//     return {
+//         data: { sales: employees }
+//     };
+// }

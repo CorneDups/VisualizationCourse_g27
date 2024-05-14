@@ -1,0 +1,9 @@
+<script>
+    import Sales from '$lib/Sales.svelte';
+  </script>
+  
+  <main>
+    <h1>Sales Data</h1>
+    <Sales />
+  </main>
+  

@@ -1,0 +1,644 @@
+CityKey,CustomerCity,CustomerCountry,CountryKey,Latitude,Longitude
+1,Hamburg,Germany,1,53.55073,9.99302
+2,Halle,Germany,1,51.99122,9.56532
+3,Halle,Germany,1,52.06007,8.36083
+4,Essen,Germany,1,51.45657,7.01228
+5,Essen,Germany,1,52.72258,7.9371
+6,Wuppertal,Germany,1,51.25627,7.14816
+7,Dresden,Germany,1,51.05089,13.73832
+8,Ninove,Belgium,2,50.82776,4.02657
+9,Köln,Germany,1,50.93333,6.95
+10,Cottbus,Germany,1,51.75769,14.32888
+11,Hannover,Germany,1,52.37052,9.73322
+12,Namur,Belgium,2,50.4669,4.86746
+13,Lübeck,Germany,1,53.86893,10.68729
+14,Kassel,Germany,1,51.31667,9.5
+15,Stuttgart,Germany,1,48.78232,9.17702
+16,Bouillon,Belgium,2,49.79324,5.06703
+17,Frankfurt am Main,Germany,1,50.11552,8.68417
+18,Münster,Germany,1,51.96236,7.62571
+19,Münster,Germany,1,48.22904,10.63623
+20,Münster,Germany,1,49.92278,8.86778
+21,Neuss,Germany,1,51.19807,6.68504
+22,Charleroi,Belgium,2,50.41136,4.44448
+23,Kiel,Germany,1,54.32133,10.13489
+24,Dillenburg,Germany,1,50.74114,8.28699
+25,Péruwelz,Belgium,2,50.50819,3.59373
+26,Düsseldorf,Germany,1,51.22172,6.77616
+27,Heilbronn,Germany,1,49.13995,9.22054
+28,Berlin,Germany,1,52.52437,13.41053
+29,Augsburg,Germany,1,48.37154,10.89851
+30,Chemnitz,Germany,1,50.8357,12.92922
+31,Wetzlar,Germany,1,50.56109,8.50495
+32,Ludwigshafen am Rhein,Germany,1,49.48121,8.44641
+33,Antwerpen,Belgium,2,51.22047,4.40026
+34,Witzenhausen,Germany,1,51.34103,9.8554
+35,Bremen,Germany,1,53.07582,8.80717
+36,Magdeburg,Germany,1,52.12773,11.62916
+37,Mons,Belgium,2,50.45413,3.95229
+38,Dortmund,Germany,1,51.51494,7.466
+39,Wiesbaden,Germany,1,50.08258,8.24932
+40,Bielefeld,Germany,1,52.03333,8.53333
+41,Solingen,Germany,1,51.17343,7.0845
+42,Gent,Belgium,2,51.05,3.71667
+43,Würzburg,Germany,1,49.79391,9.95121
+44,Leipzig,Germany,1,51.33962,12.37129
+45,Remscheid,Germany,1,51.17983,7.1925
+46,Nürnberg,Germany,1,49.45421,11.07752
+47,Momignies,Belgium,2,50.0271,4.16519
+48,Braunschweig,Germany,1,52.26594,10.52673
+49,Gelsenkirchen,Germany,1,51.50508,7.09654
+50,Tournai,Belgium,2,50.60715,3.38932
+51,Offenbach,Germany,1,50.10061,8.76647
+52,Bremerhaven,Germany,1,53.53615,8.59298
+53,Duisburg,Germany,1,51.43247,6.76516
+54,Bochum,Germany,1,51.48165,7.21648
+55,Osnabrück,Germany,1,52.27264,8.0498
+56,Mannheim,Germany,1,49.4891,8.46694
+57,Mainz,Germany,1,49.98419,8.2791
+58,Mönchengladbach,Germany,1,51.18539,6.44172
+59,Ath,Belgium,2,50.62937,3.77801
+60,Aachen,Germany,1,50.77664,6.08342
+61,Saarbrücken,Germany,1,49.23262,7.00982
+62,Rostock,Germany,1,54.0887,12.14049
+63,Bonn,Germany,1,50.73438,7.09549
+64,Hamm,Germany,1,53.55487,10.05742
+65,Hamm,Germany,1,51.68033,7.82089
+66,Erfurt,Germany,1,50.9787,11.03283
+67,Toila,Estonia,3,59.42127,27.50807
+68,Bressuire,France,4,46.84158,-0.49042
+69,Luleå,Sweden,5,65.58415,22.15465
+70,Żurowa,Poland,6,49.82636,21.16894
+71,Dobra,Poland,6,53.48835,14.38617
+72,Dobra,Poland,6,51.91664,18.61556
+73,Dobra,Poland,6,53.58625,15.30977
+74,Dobra,Poland,6,49.71793,20.25347
+75,Marseille,France,4,43.29695,5.38107
+76,Larvik,Norway,7,59.05328,10.03517
+77,Örebro,Sweden,5,59.27412,15.2066
+78,Jablonec nad Nisou,Czech Republic,8,50.72431,15.17108
+79,Liběšice,Czech Republic,8,50.56886,14.28906
+80,Mesopotamía,Greece,9,40.50252,21.1611
+81,Hoorn,Netherlands,10,52.6425,5.05972
+82,Dębowa Łąka,Poland,6,53.25541,19.09595
+83,Simrishamn,Sweden,5,55.55653,14.35037
+84,Agrínio,Greece,9,38.62139,21.40778
+85,Täby,Sweden,5,59.4439,18.06872
+86,Stari Grad,Croatia,11,43.18387,16.59784
+87,Stari Grad,Croatia,11,44.43,15.06222
+88,Telsiai,Lithuania,12,55.98139,22.24722
+89,Morávka,Czech Republic,8,49.59607,18.52471
+90,Norberg,Sweden,5,60.06505,15.92366
+91,Skurup,Sweden,5,55.47839,13.50186
+92,Falkenberg,Sweden,5,56.90552,12.49118
+93,Grabica,Poland,6,51.47989,19.53137
+94,Grenoble,France,4,45.17869,5.71479
+95,Gävle,Sweden,5,60.67452,17.14174
+96,Põlva,Estonia,3,58.06028,27.06944
+97,Saint-Laurent-Blangy,France,4,50.29446,2.80698
+98,Leppävirta,Finland,13,62.49009,27.78262
+99,Komiža,Croatia,11,43.04306,16.09306
+100,Fálanna,Greece,9,39.71986,22.39733
+101,Horvati,Croatia,11,45.7175,15.81972
+102,Horvati,Croatia,11,45.7,15.81667
+103,Hankasalmi,Finland,13,62.38333,26.43333
+104,Žrnovnica,Croatia,11,43.52111,16.55917
+105,Ulricehamn,Sweden,5,57.79159,13.41422
+106,Bagneux,France,4,48.79565,2.30796
+107,Teplice,Czech Republic,8,50.6404,13.82451
+108,Lille,France,4,50.63297,3.05858
+109,Bar-le-Duc,France,4,48.77275,5.16108
+110,Torsås,Sweden,5,56.41251,15.99844
+111,Mora,Sweden,5,61.00704,14.54316
+112,Boulogne-Billancourt,France,4,48.83545,2.24128
+113,Lyon,France,4,45.74846,4.84671
+114,Garbów,Poland,6,51.35517,22.32937
+115,Thionville,France,4,49.35994,6.16044
+116,Kramarzówka,Poland,6,49.86034,22.50137
+117,Osby,Sweden,5,56.38165,13.99364
+118,Amiens,France,4,49.9,2.3
+119,Tučepi,Croatia,11,43.27222,17.05444
+120,Chambéry,France,4,45.56628,5.92079
+121,Vagney,France,4,48.00629,6.7174
+122,Levallois-Perret,France,4,48.89389,2.28864
+123,Ożarowice,Poland,6,50.46182,19.04317
+124,Halinów,Poland,6,52.2288,21.3551
+125,Krasnystaw,Poland,6,50.98464,23.1742
+126,Forssa,Finland,13,60.81462,23.62146
+127,Montesson,France,4,48.90924,2.13754
+128,Huddinge,Sweden,5,59.23705,17.98192
+129,Sala,Sweden,5,59.91993,16.60655
+130,Dobje pri Planini,Slovenia,14,46.13747,15.39412
+131,Eger,Hungary,15,47.90265,20.37329
+132,Oslo,Norway,7,59.91273,10.74609
+133,Linköping,Sweden,5,58.41086,15.62157
+134,La Ravoire,France,4,45.56266,5.95826
+135,Načeradec,Czech Republic,8,49.61018,14.90633
+136,Tournon-sur-Rhône,France,4,45.06667,4.83333
+137,Mílos,Greece,9,36.74536,24.4265
+138,Nacka,Sweden,5,59.31053,18.16372
+139,Wintzenheim,France,4,48.07269,7.29072
+140,Mirotice,Czech Republic,8,49.42908,14.03697
+141,Spytkowice,Poland,6,49.57744,19.83341
+142,Spytkowice,Poland,6,49.99671,19.51103
+143,Pau,France,4,43.31117,-0.35583
+144,Redon,France,4,47.65165,-2.08421
+145,Vilémov,Czech Republic,8,49.81566,15.53584
+146,Vilémov,Czech Republic,8,50.99054,14.33531
+147,Vilémov,Czech Republic,8,49.53578,15.38347
+148,Lovrenc na Pohorju,Slovenia,14,46.54056,15.39306
+149,Trzebnica,Poland,6,51.31076,17.06331
+150,Ylitornio,Finland,13,66.30893,23.67734
+151,Léchovo,Greece,9,40.58442,21.49218
+152,Limoges,France,4,45.83362,1.24759
+153,Chřibská,Czech Republic,8,50.86079,14.48444
+154,Szeged,Hungary,15,46.253,20.14824
+155,Ráječko,Czech Republic,8,49.39393,16.64497
+156,Lammi,Finland,13,61.08333,25.01667
+157,Höganäs,Sweden,5,56.19971,12.55795
+158,Croix,France,4,50.67846,3.1493
+159,Praszka,Poland,6,51.05375,18.45317
+160,Níkaia,Greece,9,37.96667,23.65
+161,Níkaia,Greece,9,39.56667,22.46667
+162,Klatovy,Czech Republic,8,49.39552,13.29505
+163,Załuski,Poland,6,52.51152,20.52864
+164,Ágios Vasíleios,Greece,9,40.66424,23.11373
+165,Töysä,Finland,13,62.62803,23.81828
+166,Pawonków,Poland,6,50.69499,18.58149
+167,Staré Město,Czech Republic,8,49.66992,18.36349
+168,Staré Město,Czech Republic,8,50.16174,16.94734
+169,Staré Město,Czech Republic,8,49.07515,17.43338
+170,Šventoji,Lithuania,12,56.0261,21.08411
+171,Tworków,Poland,6,50.00559,18.23576
+172,Arras,France,4,50.29301,2.78186
+173,Stanisław Górny,Poland,6,49.91155,19.62931
+174,Drezdenko,Poland,6,52.83831,15.83079
+175,Stockholm,Sweden,5,59.32938,18.06871
+176,Pecka,Czech Republic,8,50.48034,15.60822
+177,Juvisy-sur-Orge,France,4,48.68333,2.38333
+178,Sillamäe,Estonia,3,59.39697,27.76331
+179,Baranowo,Poland,6,53.17554,21.29803
+180,Baranowo,Poland,6,52.43525,16.78631
+181,Rajsko,Poland,6,50.01193,19.19294
+182,Périgueux,France,4,45.18691,0.71439
+183,Solna,Sweden,5,59.36004,18.00086
+184,Montceau-les-Mines,France,4,46.66667,4.36667
+185,Massy,France,4,48.72692,2.28301
+186,Třemošnice,Czech Republic,8,49.86912,15.58002
+187,Karlovy Vary,Czech Republic,8,50.23271,12.87117
+188,Chvalšiny,Czech Republic,8,48.85401,14.21114
+189,Velká Polom,Czech Republic,8,49.86359,18.09331
+190,Kinna,Sweden,5,57.50728,12.69463
+191,Ystad,Sweden,5,55.42966,13.82041
+192,Studenec,Czech Republic,8,50.55344,15.54936
+193,Sindi,Estonia,3,58.40056,24.6675
+194,Tidaholm,Sweden,5,58.18035,13.95824
+195,Samothráki,Greece,9,40.47333,25.52222
+196,Souflí,Greece,9,41.19194,26.29944
+197,Enköping,Sweden,5,59.63607,17.07768
+198,Luhanka,Finland,13,61.79682,25.70457
+199,Carquefou,France,4,47.29722,-1.4921
+200,Makrychóri,Greece,9,39.8,22.48333
+201,Makrychóri,Greece,9,39.43978,21.96582
+202,Quimperlé,France,4,47.87215,-3.54994
+203,Toulon,France,4,43.12442,5.92836
+204,Štítina,Czech Republic,8,49.91487,18.01245
+205,Dieppe,France,4,49.9216,1.07772
+206,Bromölla,Sweden,5,56.07551,14.46958
+207,Niort,France,4,46.32313,-0.45877
+208,Perstorp,Sweden,5,56.13829,13.39476
+209,Orsay,France,4,48.69572,2.18727
+210,Fontenay-sous-Bois,France,4,48.85442,2.48268
+211,Szombathely,Hungary,15,47.23088,16.62155
+212,Zamora,Spain,16,41.50633,-5.74456
+213,Tlumačov,Czech Republic,8,49.25351,17.49559
+214,Borås,Sweden,5,57.72101,12.9401
+215,Lappeenranta,Finland,13,61.05871,28.18871
+216,Ljungskile,Sweden,5,58.22452,11.92014
+217,Pécs,Hungary,15,46.0725,18.23083
+218,Velké Losiny,Czech Republic,8,50.03197,17.04058
+219,Göteborg,Sweden,5,57.70716,11.96679
+220,Valence,France,4,44.9256,4.90956
+221,Valence,France,4,44.10823,0.89101
+222,Dolní Černilov,Czech Republic,8,50.2611,15.96107
+223,Terezín,Czech Republic,8,50.511,14.15055
+224,Féres,Greece,9,40.89305,26.17234
+225,Hodošan,Croatia,11,46.39528,16.64389
+226,Bègles,France,4,44.80759,-0.55144
+227,Remiremont,France,4,48.01754,6.5882
+228,Sidirókastro,Greece,9,41.23499,23.38899
+229,Piteå,Sweden,5,65.31717,21.47944
+230,Nová Paka,Czech Republic,8,50.49449,15.51503
+231,Hollola,Finland,13,61.0,25.5
+232,Hollola,Finland,13,61.05,25.43333
+233,Castelsarrasin,France,4,44.04042,1.10666
+234,Karlskoga,Sweden,5,59.32667,14.52386
+235,Trondheim,Norway,7,63.43049,10.39506
+236,Le Puy-en-Velay,France,4,45.04366,3.88523
+237,Sundsvall,Sweden,5,62.39129,17.3063
+238,Bagnolet,France,4,48.86667,2.41667
+239,Norton,United Kingdom,17,54.13303,-0.78501
+240,Norton,United Kingdom,17,53.63333,-1.18333
+241,Norton,United Kingdom,17,51.55944,-2.165
+242,Chropyně,Czech Republic,8,49.35644,17.36451
+243,Hvar,Croatia,11,43.1725,16.44278
+244,Storvik,Sweden,5,65.15,20.73333
+245,Storvik,Sweden,5,60.58333,16.53333
+246,Trollhättan,Sweden,5,58.28365,12.28864
+247,Villefranche-sur-Mer,France,4,43.70392,7.31088
+248,Kävlinge,Sweden,5,55.79188,13.11021
+249,Beauvais,France,4,49.43333,2.08333
+250,Arvika,Sweden,5,59.65528,12.58518
+251,Créteil,France,4,48.79266,2.46569
+252,Lorient,France,4,47.74817,-3.37177
+253,Šenčur,Slovenia,14,46.24556,14.41972
+254,Kajaani,Finland,13,64.22728,27.72846
+255,Romans-sur-Isère,France,4,45.0496,5.06602
+256,Bollstabruk,Sweden,5,62.99777,17.67348
+257,Zátor,Czech Republic,8,50.03413,17.59296
+258,Pentaplátano,Greece,9,40.81902,22.41903
+259,Zlonice,Czech Republic,8,50.2875,14.09214
+260,Jelsa,Croatia,11,43.16139,16.69306
+261,Bollnäs,Sweden,5,61.34817,16.39464
+262,Valbo,Sweden,5,60.65,17.03333
+263,Všetaty,Czech Republic,8,50.28187,14.59297
+264,Néa Plágia,Greece,9,40.26537,23.20376
+265,Puteaux,France,4,48.88341,2.23894
+266,Saint-Lô,France,4,49.11624,-1.09031
+267,Ayía Triás,Greece,9,37.63707,22.80504
+268,Bílovec,Czech Republic,8,49.75639,18.01581
+269,Hrotovice,Czech Republic,8,49.1077,16.06067
+270,Avesta,Sweden,5,60.14274,16.16295
+271,Gospić,Croatia,11,44.54611,15.37472
+272,Caen,France,4,49.18585,-0.35912
+273,Istres,France,4,43.51345,4.98747
+274,Slavkov u Brna,Czech Republic,8,49.15325,16.87649
+275,Ed,Sweden,5,58.91247,11.93308
+276,Sabadell,Spain,16,41.54329,2.10942
+277,Ånge,Sweden,5,62.52495,15.65904
+278,Imotski,Croatia,11,43.44667,17.21667
+279,Vuzenica,Slovenia,14,46.59639,15.16722
+280,Greda,Croatia,11,43.61528,16.69361
+281,Uppsala,Sweden,5,59.85882,17.63889
+282,Angers,France,4,47.47156,-0.55202
+283,Besançon,France,4,47.24878,6.01815
+284,Amsterdam,Netherlands,10,52.37403,4.88969
+285,Västervik,Sweden,5,57.7584,16.63733
+286,Nevers,France,4,46.98956,3.159
+287,Vítkov,Czech Republic,8,49.77445,17.74941
+288,Černovice,Czech Republic,8,49.37265,14.96089
+289,Cergy-Pontoise,France,4,49.03894,2.07805
+290,Jakartovice,Czech Republic,8,49.9151,17.684
+291,Mokronog,Slovenia,14,45.93417,15.14083
+292,Kuršėnai,Lithuania,12,56.00318,22.93662
+293,Zwolle,Netherlands,10,52.5125,6.09444
+294,Toulouse,France,4,43.60426,1.44367
+295,Vidče,Czech Republic,8,49.44151,18.09473
+296,Kimméria,Greece,9,41.14788,24.93869
+297,Tuusniemi,Finland,13,62.81667,28.5
+298,Saint-Brieuc,France,4,48.51513,-2.76838
+299,Žlutice,Czech Republic,8,50.09192,13.16297
+300,Lepoglava,Croatia,11,46.21056,16.03556
+301,Klenčí pod Čerchovem,Czech Republic,8,49.43484,12.81473
+302,Pentre,United Kingdom,17,51.65429,-3.49133
+303,Skópelos,Greece,9,39.02922,26.44836
+304,Skópelos,Greece,9,39.12144,23.72686
+305,Falun,Sweden,5,60.60357,15.62597
+306,Umeå,Sweden,5,63.82842,20.25972
+307,Åhus,Sweden,5,55.91667,14.28333
+308,Tatabánya,Hungary,15,47.58494,18.39325
+309,Hluboká nad Vltavou,Czech Republic,8,49.05225,14.43427
+310,Dob,Slovenia,14,46.15194,14.62861
+311,Uddevalla,Sweden,5,58.34784,11.9424
+312,Uničov,Czech Republic,8,49.77092,17.12144
+313,Boxholm,Sweden,5,58.19719,15.05376
+314,Yvetot,France,4,49.61744,0.75814
+315,Katovice,Czech Republic,8,49.27348,13.83035
+316,Sudoměřice,Czech Republic,8,48.86723,17.25676
+317,Pélla,Greece,9,40.76169,22.52637
+318,Eslöv,Sweden,5,55.83928,13.30393
+319,Karlskrona,Sweden,5,56.16156,15.58661
+320,Klášter,Czech Republic,8,49.96762,12.87623
+321,Zásmuky,Czech Republic,8,49.9547,15.03058
+322,Skinnskatteberg,Sweden,5,59.83028,15.69337
+323,Pórto Chéli,Greece,9,37.32786,23.14384
+324,Åby,Sweden,5,58.66667,16.18333
+325,Stochov,Czech Republic,8,50.14631,13.96345
+326,Charenton-le-Pont,France,4,48.82209,2.41217
+327,Horní Lideč,Czech Republic,8,49.18121,18.06099
+328,Pilníkov,Czech Republic,8,50.53247,15.8202
+329,Köyliö,Finland,13,61.1191,22.30976
+330,Buštěhrad,Czech Republic,8,50.15594,14.18897
+331,Ágios Spyrídon,Greece,9,40.20778,22.44311
+332,Briey,France,4,49.2492,5.93975
+333,Issoire,France,4,45.54422,3.24901
+334,Évosmos,Greece,9,40.67056,22.90833
+335,Ludvika,Sweden,5,60.14959,15.18776
+336,Arkhaía Kórinthos,Greece,9,37.90953,22.88353
+337,Stavanger,Norway,7,58.97005,5.73332
+338,Bodø,Norway,7,67.28,14.40501
+339,Skála,Greece,9,36.85,22.66667
+340,Skála,Greece,9,37.32218,26.543
+341,Dýšina,Czech Republic,8,49.77735,13.4915
+342,Marttila,Finland,13,60.58333,22.9
+343,Rokytnice nad Jizerou,Czech Republic,8,50.72561,15.43357
+344,Oyonnax,France,4,46.25917,5.65727
+345,Brive-la-Gaillarde,France,4,45.1589,1.53326
+346,Le Teil,France,4,44.54531,4.68223
+347,Sali,Croatia,11,43.93972,15.16333
+348,Runović,Croatia,11,43.38685,17.23911
+349,Chrysó,Greece,9,41.05806,23.65108
+350,Emmen,Netherlands,10,52.77917,6.90694
+351,Västerås,Sweden,5,59.61617,16.55276
+352,Radnice,Czech Republic,8,49.85677,13.6057
+353,Montpellier,France,4,43.61093,3.87635
+354,Vallentuna,Sweden,5,59.53436,18.07758
+355,Antíparos,Greece,9,37.0394,25.08258
+356,Jince,Czech Republic,8,49.78624,13.97867
+357,Nyköping,Sweden,5,58.753,17.00788
+358,Haguenau,France,4,48.81557,7.79051
+359,Vallauris,France,4,43.57803,7.05451
+360,Forbach,France,4,49.18848,6.89255
+361,Ruukki,Finland,13,64.66667,25.1
+362,Gaïtánion,Greece,9,37.79134,20.87407
+363,Ronneby,Sweden,5,56.20999,15.27602
+364,Turku,Finland,13,60.45148,22.26869
+365,Dordrecht,Netherlands,10,51.81,4.67361
+366,Petrovice u Karviné,Czech Republic,8,49.89587,18.54779
+367,Svenljunga,Sweden,5,57.49551,13.11078
+368,Mégara,Greece,9,37.99471,23.34324
+369,Beverwijk,Netherlands,10,52.48333,4.65694
+370,Dobratice,Czech Republic,8,49.66039,18.49226
+371,Heemstede,Netherlands,10,52.34992,4.62301
+372,Hrochův Týnec,Czech Republic,8,49.95946,15.91054
+373,Bonneuil-sur-Marne,France,4,48.7695,2.4793
+374,Helsingborg,Sweden,5,56.04673,12.69437
+375,Bålsta,Sweden,5,59.5671,17.52781
+376,Akademija (Kaunas),Lithuania,12,54.8964,23.82411
+377,Nora,Sweden,5,59.51926,15.03979
+378,Vingåker,Sweden,5,59.0433,15.87374
+379,Alvesta,Sweden,5,56.89935,14.55559
+380,Líně,Czech Republic,8,49.69472,13.25693
+381,Bergerac,France,4,44.85157,0.48171
+382,Katrineholm,Sweden,5,58.99587,16.20721
+383,Lestijärvi,Finland,13,63.53333,24.65
+384,Gardawice,Poland,6,50.11667,18.8
+385,Kozmice,Czech Republic,8,49.9128,18.15584
+386,Villejuif,France,4,48.7939,2.35992
+387,Quetigny,France,4,47.31667,5.11667
+388,Dubiecko,Poland,6,49.82608,22.39117
+389,Piła,Poland,6,53.15145,16.73782
+390,Leśnica,Poland,6,50.43083,18.18684
+391,Leśnica,Poland,6,49.40092,20.06001
+392,Strängnäs,Sweden,5,59.37741,17.03119
+393,Budapest,Hungary,15,47.49835,19.04045
+394,Laagri,Estonia,3,59.35083,24.61418
+395,Ratíškovice,Czech Republic,8,48.92002,17.16561
+396,Chilly-Mazarin,France,4,48.71489,2.31638
+397,Nové Město pod Smrkem,Czech Republic,8,50.92491,15.22943
+398,Eindhoven,Netherlands,10,51.44083,5.47778
+399,Sevilla,Spain,16,37.38283,-5.97317
+400,Orléans,France,4,47.90289,1.90389
+401,Strenči,Latvia,18,57.62574,25.68535
+402,Quimper,France,4,47.99597,-4.09795
+403,Venta,Lithuania,12,56.19162,22.69528
+404,Getafe,Spain,16,40.30571,-3.73295
+405,Neochóri,Greece,9,39.07025,21.01892
+406,Neochóri,Greece,9,41.05231,23.57997
+407,Neochóri,Greece,9,41.51131,26.4574
+408,Neochóri,Greece,9,37.90794,21.20392
+409,Skänninge,Sweden,5,58.39427,15.08659
+410,Skänninge,Sweden,5,59.93333,18.48333
+411,Psychikó,Greece,9,38.01324,23.77223
+412,Storuman,Sweden,5,65.0959,17.11731
+413,Vrbovec,Croatia,11,45.88333,16.42167
+414,Lipník nad Bečvou,Czech Republic,8,49.52721,17.58594
+415,Kelmė,Lithuania,12,55.63009,22.9349
+416,Hengelo,Netherlands,10,52.05083,6.30972
+417,Hengelo,Netherlands,10,52.26583,6.79306
+418,Tabasalu,Estonia,3,59.42607,24.5533
+419,Kista,Sweden,5,59.40316,17.94479
+420,Perho,Finland,13,63.21667,24.41667
+421,Kavallári,Greece,9,40.71539,23.04588
+422,Lleida,Spain,16,41.61674,0.62218
+423,Wasquehal,France,4,50.67043,3.13382
+424,Carregado,Portugal,19,39.02362,-8.97692
+425,Santa Cruz do Bispo,Portugal,19,41.21462,-8.67406
+426,Morje,Slovenia,14,46.44444,15.62139
+427,Kraljevica,Croatia,11,45.27395,14.5683
+428,Arles,France,4,42.45654,2.63457
+429,Arles,France,4,43.67681,4.63031
+430,Vónitsa,Greece,9,38.91639,20.88639
+431,Rungis,France,4,48.74607,2.35275
+432,Örnsköldsvik,Sweden,5,63.29091,18.71525
+433,Evxinoúpolis,Greece,9,39.18414,22.73831
+434,Bourg-en-Bresse,France,4,46.20574,5.2258
+435,Xilópolis,Greece,9,40.92713,23.17944
+436,Grijó,Portugal,19,41.02836,-8.58017
+437,Tukums,Latvia,18,56.96764,23.15554
+438,Grosuplje,Slovenia,14,45.95556,14.65889
+439,Dubá,Czech Republic,8,50.54034,14.54023
+440,Girona,Spain,16,41.98311,2.82493
+441,Rio Meão,Portugal,19,40.95775,-8.57818
+442,Valongo,Portugal,19,41.18883,-8.49857
+443,Valongo,Portugal,19,40.61667,-8.45
+444,Áyioi Apóstoloi,Greece,9,38.29169,23.91011
+445,Tromsø,Norway,7,69.6489,18.95508
+446,Rízoma,Greece,9,39.66432,21.73541
+447,Hallstahammar,Sweden,5,59.61395,16.22846
+448,Kerkrade,Netherlands,10,50.86583,6.0625
+449,Hroznětín,Czech Republic,8,50.3094,12.8718
+450,Rietavas,Lithuania,12,55.72708,21.92343
+451,Chur,Switzerland,20,46.84986,9.53287
+452,Albacete,Spain,16,38.99424,-1.85643
+453,Vale de Figueira,Portugal,19,39.30569,-8.62876
+454,Épinal,France,4,48.18324,6.45304
+455,Markaryd,Sweden,5,56.46135,13.59644
+456,Orissaare,Estonia,3,58.55917,23.08262
+457,Timrå,Sweden,5,62.48654,17.32613
+458,Poljčane,Slovenia,14,46.31194,15.57917
+459,Liljendal,Finland,13,60.57346,26.05257
+460,Ochla,Poland,6,51.87903,15.47132
+461,Dubrava,Croatia,11,45.83361,16.06361
+462,Dubrava,Croatia,11,45.83777,16.53751
+463,Dubrava,Croatia,11,43.735,15.94806
+464,Náklo,Czech Republic,8,49.65462,17.12969
+465,Golina,Poland,6,52.24315,18.09268
+466,Golina,Poland,6,51.91489,17.48268
+467,Värnamo,Sweden,5,57.18604,14.04001
+468,Madona,Latvia,18,56.85329,26.21698
+469,Omišalj,Croatia,11,45.21134,14.55495
+470,Skien,Norway,7,59.20962,9.60897
+471,Elverum,Norway,7,60.88191,11.56231
+472,Blois,France,4,47.59432,1.32912
+473,Jelcz,Poland,6,51.02102,17.32095
+474,Kyllíni,Greece,9,37.93542,21.14503
+475,Fažana,Croatia,11,44.92742,13.80349
+476,Lappi,Finland,13,61.1,21.83333
+477,Borucin,Poland,6,50.00763,18.15748
+478,Lysekil,Sweden,5,58.27429,11.43576
+479,Santa Luzia,Portugal,19,37.10224,-7.66202
+480,Węgorzyno,Poland,6,53.54101,15.55964
+481,Volary,Czech Republic,8,48.90881,13.88657
+482,Trelleborg,Sweden,5,55.37514,13.15691
+483,Sierakowice,Poland,6,54.3461,17.89252
+484,Łęczyce,Poland,6,54.59405,17.85931
+485,Gowarczów,Poland,6,51.27845,20.43835
+486,Nowosielce-Gniewosz,Poland,6,49.56842,22.06947
+487,Néa Sánta,Greece,9,40.84084,22.92163
+488,Metlika,Slovenia,14,45.64722,15.31417
+489,Kybartai,Lithuania,12,54.63858,22.76316
+490,Příbor,Czech Republic,8,49.64094,18.14499
+491,Melun,France,4,48.5457,2.65356
+492,Brijest,Croatia,11,45.52056,18.67194
+493,Hodoš,Slovenia,14,46.82333,16.33417
+494,Marianowo,Poland,6,53.38287,15.26645
+495,Wojcieszków,Poland,6,51.76922,22.31589
+496,Askim,Norway,7,59.58326,11.16286
+497,Saint-Grégoire,France,4,48.15101,-1.68579
+498,Stanisław Dolny,Poland,6,49.9047,19.65334
+499,Ostrožská Lhota,Czech Republic,8,48.97559,17.46751
+500,Drawsko Pomorskie,Poland,6,53.53056,15.80967
+501,Gąsocin,Poland,6,52.73754,20.7118
+502,Vierzon,France,4,47.22186,2.0684
+503,Asíni,Greece,9,37.54431,22.86435
+504,Mýrina,Greece,9,39.87483,25.06359
+505,Kęty,Poland,6,49.88214,19.22333
+506,Rokitno,Poland,6,52.12142,23.29514
+507,Tupesy,Czech Republic,8,49.08427,17.36983
+508,Kranjska Gora,Slovenia,14,46.45689,13.77824
+509,La Roche-sur-Yon,France,4,46.66974,-1.42757
+510,Kunčice pod Ondřejníkem,Czech Republic,8,49.5507,18.26113
+511,Bjuv,Sweden,5,56.08372,12.91914
+512,Iłowo -Osada,Poland,6,53.16808,20.29295
+513,Degeberga,Sweden,5,55.83333,14.08333
+514,Baborów,Poland,6,50.1576,17.98513
+515,Dobřany,Czech Republic,8,49.65482,13.29307
+516,Plewiska,Poland,6,52.36706,16.80985
+517,Saint-Quentin-en-Yvelines,France,4,48.77186,2.01891
+518,Klippan,Sweden,5,56.13559,13.13086
+519,Lidingö,Sweden,5,59.36667,18.13333
+520,Balma,France,4,43.61111,1.49944
+521,Milówka,Poland,6,49.5554,19.09072
+522,Pokój,Poland,6,50.90265,17.83751
+523,Przybyszówka,Poland,6,50.04788,21.92579
+524,Lipka,Poland,6,53.49601,17.25085
+525,Sunja,Croatia,11,45.3685,16.56702
+526,Ljutomer,Slovenia,14,46.52083,16.1975
+527,Hämeenkoski,Finland,13,61.02222,25.15417
+528,Telč,Czech Republic,8,49.18418,15.45275
+529,Loutráki,Greece,9,40.97116,21.94659
+530,Loutráki,Greece,9,37.9783,22.97781
+531,Särkisalo,Finland,13,60.11389,22.95
+532,Januszkowice,Poland,6,50.39189,18.1368
+533,Tomelilla,Sweden,5,55.54293,13.9546
+534,Pyskowice,Poland,6,50.4,18.63333
+535,Kwidzyn,Poland,6,53.72495,18.93114
+536,Szczerców,Poland,6,51.33319,19.10977
+537,Pasvalys,Lithuania,12,56.06251,24.39965
+538,Jagodnjak,Croatia,11,45.69917,18.57694
+539,Vlissingen,Netherlands,10,51.4425,3.57361
+540,Bromma,Sweden,5,59.34,17.94
+541,Saint-Denis,France,4,48.93564,2.35387
+542,Kuźnia Raciborska,Poland,6,50.20058,18.31146
+543,Jeseník,Czech Republic,8,50.22937,17.20464
+544,Jablonec nad Jizerou,Czech Republic,8,50.70347,15.42959
+545,Nová Cerekev,Czech Republic,8,49.41723,15.11675
+546,Montluçon,France,4,46.34015,2.60254
+547,Saint-Marcellin,France,4,45.14914,5.31673
+548,Brněnec,Czech Republic,8,49.62735,16.52202
+549,Libušín,Czech Republic,8,50.16819,14.05458
+550,Baligród,Poland,6,49.3309,22.28566
+551,Carcassonne,France,4,43.21649,2.34863
+552,Xylókastro,Greece,9,38.07762,22.63166
+553,Velké Němčice,Czech Republic,8,48.99168,16.67208
+554,Utena,Lithuania,12,55.49764,25.59918
+555,Czchów,Poland,6,49.83726,20.68056
+556,Figueiró dos Vinhos,Portugal,19,39.90413,-8.27511
+557,Bakovci,Slovenia,14,46.61889,16.15028
+558,Velké Pavlovice,Czech Republic,8,48.90469,16.81605
+559,Zagreb,Croatia,11,45.81444,15.97798
+560,Chocz,Poland,6,51.97642,17.86995
+561,Amorim,Portugal,19,41.40503,-8.75046
+562,Zlín,Czech Republic,8,49.22645,17.67065
+563,Hénin-Beaumont,France,4,50.41359,2.96485
+564,Södertälje,Sweden,5,59.19554,17.62525
+565,Dióni,Greece,9,38.02328,23.93286
+566,Forshaga,Sweden,5,59.52541,13.48127
+567,Białaczów,Poland,6,51.29815,20.29724
+568,Albi,France,4,43.9298,2.148
+569,Sandviken,Sweden,5,60.61667,16.76667
+570,Mogilany,Poland,6,49.9389,19.88972
+571,Dębowiec,Poland,6,49.68374,21.46068
+572,Dębowiec,Poland,6,49.81406,18.72062
+573,Pantin,France,4,48.89437,2.40935
+574,Miřetice,Czech Republic,8,49.84126,15.88472
+575,Spétses,Greece,9,37.26191,23.15943
+576,Vaxholm,Sweden,5,59.40225,18.35317
+577,Chalandrítsa,Greece,9,38.10843,21.78349
+578,Moravský Krumlov,Czech Republic,8,49.04893,16.31169
+579,Vamvakoú,Greece,9,39.33708,22.41983
+580,Velenje,Slovenia,14,46.35917,15.11028
+581,Le Havre,France,4,49.49346,0.10785
+582,Skála Oropoú,Greece,9,38.31964,23.78763
+583,Nedašov,Czech Republic,8,49.10778,18.07036
+584,Čížkovice,Czech Republic,8,50.48418,14.02839
+585,Tríkala,Greece,9,40.59814,22.55733
+586,Tríkala,Greece,9,39.55493,21.76837
+587,Semeljci,Croatia,11,45.36056,18.54361
+588,Haugesund,Norway,7,59.41378,5.268
+589,Alkmaar,Netherlands,10,52.63167,4.74861
+590,Glinojeck,Poland,6,52.81983,20.29198
+591,Siedleczka,Poland,6,49.96061,22.37949
+592,La Valette-du-Var,France,4,43.13763,5.98317
+593,Fotolívos,Greece,9,41.06013,24.04724
+594,Podwilk,Poland,6,49.5476,19.73874
+595,Oxelösund,Sweden,5,58.67057,17.10152
+596,Kalej,Poland,6,50.83662,18.98429
+597,Stryszów,Poland,6,49.82569,19.61763
+598,Novi Zagreb,Croatia,11,45.78333,15.98333
+599,Luso,Portugal,19,40.38429,-8.37845
+600,Nantes,France,4,47.21725,-1.55336
+601,Maszewo Duże,Poland,6,52.58026,19.62905
+602,Wiśniewo,Poland,6,53.06474,20.34805
+603,Pacov,Czech Republic,8,49.47076,15.00168
+604,Kalmar,Sweden,5,56.66157,16.36163
+605,Kronoby,Finland,13,63.72859,23.03387
+606,Deskáti,Greece,9,39.92422,21.81031
+607,Lubowidz,Poland,6,53.11865,19.84594
+608,Ceuta,Spain,16,35.88919,-5.32042
+609,Stara Kornica,Poland,6,52.18183,22.93752
+610,Paderne,Portugal,19,37.17935,-8.2015
+611,Fradelos,Portugal,19,41.36846,-8.59887
+612,Skövde,Sweden,5,58.39118,13.84506
+613,Nieborów,Poland,6,52.07771,20.06902
+614,Nowy Dwór Mazowiecki,Poland,6,52.43022,20.71652
+615,Aizkraukle,Latvia,18,56.60477,25.25534
+616,Hässleholm,Sweden,5,56.15905,13.76638
+617,Marathókampos,Greece,9,37.72674,26.68964
+618,Nowy Korczyn,Poland,6,50.30124,20.80759
+619,Jäppilä,Finland,13,62.37899,27.43372
+620,Laliki,Poland,6,49.53446,19.00549
+621,Mestre,Italy,21,45.49167,12.24538
+622,Uherský Brod,Czech Republic,8,49.02513,17.64715
+623,Rumburk,Czech Republic,8,50.95151,14.55699
+624,Długosiodło,Poland,6,52.75998,21.59183
+625,Monte Redondo,Portugal,19,39.8993,-8.83171
+626,Dębno,Poland,6,50.19811,22.51837
+627,Dębno,Poland,6,49.96701,20.71979
+628,Dębno,Poland,6,52.73901,14.698
+629,Sobotín,Czech Republic,8,50.01039,17.09129
+630,Beltinci,Slovenia,14,46.60528,16.24056
+631,Baška Voda,Croatia,11,43.35694,16.95028
+632,Panórama,Greece,9,40.58779,23.0315
+633,Krapina,Croatia,11,46.16083,15.87889
+634,Głogów Małopolski,Poland,6,50.15122,21.96287
+635,Punkaharju,Finland,13,61.75883,29.38843
+636,Bludov,Czech Republic,8,49.9408,16.92849
+637,Humpolec,Czech Republic,8,49.54152,15.35932
+638,Sandnes,Norway,7,58.85244,5.73521
+639,Trzebinia,Poland,6,49.65024,19.22264
+640,Trzebinia,Poland,6,50.15931,19.46966
+641,Eskilstuna,Sweden,5,59.36661,16.5077
+642,La Garde,France,4,43.12468,6.01033
+643,Alcabideche,Portugal,19,38.73366,-9.40928

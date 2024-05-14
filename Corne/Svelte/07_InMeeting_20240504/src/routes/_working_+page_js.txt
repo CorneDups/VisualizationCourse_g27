@@ -1,0 +1,39 @@
+import Papa from 'papaparse'
+
+//Plants:
+const responsePlants = await fetch('http://localhost:5173/data/plants.csv', {
+    headers: {
+        'Content-Type': 'text/csv'
+    }
+})
+
+let csvPlants = await responsePlants.text()
+let parsedCsvPlants = Papa.parse(csvPlants, {skipEmptyLines: true, header: true})
+
+// export const load = async ({ fetch }) => { 
+//     const responsePlants = await fetch('http://localhost:5173/data/plants.csv', {
+//         headers: {
+//             'Content-Type': 'text/csv'
+//         }
+//     })
+//     let csvPlants = await responsePlants.text()
+//     let parsedCsvPlants = Papa.parse(csvPlants, {skipEmptyLines: true, header: true})
+
+//     return {
+//       plants: parsedCsvPlants
+//     }
+//   }
+
+
+//Customers:
+const responseCustomers = await fetch('http://localhost:5173/data/Customers.csv', {
+    headers: {
+        'Content-Type': 'text/csv'
+    }
+})
+
+let csvCustomers = await responseCustomers.text()
+let parsedCsvCustomers = Papa.parse(csvCustomers, {skipEmptyLines: true, header: true})
+
+// console.log(parsedCsvCustomers)
+// console.log(parsedCsvPlants)

@@ -1,0 +1,129 @@
+<!-- <script>
+  let selectedCountry = 'United States'; // default selection
+  const countries = [
+    'China', 'India', 'United States', 'Indonesia', 'Pakistan',
+    'Brazil', 'Nigeria', 'Bangladesh', 'Russia', 'Mexico',
+    'Japan', 'Ethiopia', 'Philippines', 'Egypt', 'Vietnam',
+    'DR Congo', 'Turkey', 'Iran', 'Germany', 'Thailand',
+    'United Kingdom', 'France', 'Italy', 'Tanzania', 'South Africa',
+    'Myanmar', 'Kenya', 'South Korea', 'Colombia', 'Spain'
+  ];
+</script> -->
+
+
+
+
+<script>
+// let selectedCountry = 'United States'; // default selection
+let selectedCountry;
+  const countries = [
+    'China', 'India', 'United States', 'Indonesia', 'Pakistan',
+    'Brazil', 'Nigeria', 'Bangladesh', 'Russia', 'Mexico',
+    'Japan', 'Ethiopia', 'Philippines', 'Egypt', 'Vietnam',
+    'DR Congo', 'Turkey', 'Iran', 'Germany', 'Thailand',
+    'United Kingdom', 'France', 'Italy', 'Tanzania', 'South Africa',
+    'Myanmar', 'Kenya', 'South Korea', 'Colombia', 'Spain'
+  ];
+
+  export let data;
+  // export let customersData = [];
+  // const plants = data.props.plantsData
+
+  // let customers = data.parsedCsvCustomers.filter(customer => customer.CustomerCountry === 'Germany');
+  let customers = data.parsedCsvCustomers.filter(customer => customer.CustomerCountry === selectedCountry);
+  
+  // let let customers = data.parsedCsvCustomers.slice(0, 20);
+// $: console.log('Customers Data:', customers);
+
+  // Reactive statements to log data when it updates
+  // $: console.log('Plants Data:', plantsData);
+  // $: console.log('Customers Data:', customersData);
+</script>
+
+<select bind:value={selectedCountry}>
+  {#each countries as country}
+    <option value={country}>{country}</option>
+  {/each}
+</select>
+
+<h2>You have selected: {selectedCountry}</h2>
+
+<!-- <h1>{data.props.plantsData}</h1>
+{#each plants as plant}
+<div>
+  <h2>{plants.PlantName}</h2>
+  <p>{plants.PlantType}</p>
+  <hr />
+</div>
+{/each} -->
+
+<!-- <h1>{customers.CustomerKey}</h1> -->
+
+
+<!-- Working: -->
+
+<!-- <h1>{data.title}</h1>
+{#each customers as customer}
+	<h2>{customer.CustomerName}/</h2>
+  <h2>{customer.CustomerCountry}/</h2>
+  <hr />
+{/each} -->
+
+
+
+<!-- {#each customers as customer}
+<div>
+  <h2>{customer.CustomerName}</h2>
+  <p>{customer.CustomerCountry}</p>
+  <hr />
+</div>
+{/each} -->
+
+<!-- <script>
+  export let plantsData = [];
+  export let customersData = [];
+</script> -->
+
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f4f4f4;
+  }
+  section {
+    margin-bottom: 20px;
+  }
+</style>
+
+
+<main>
+  <section>
+    <h1>Customers</h1>
+    <table>
+      {#if customers.length > 0}
+        <tr>
+          {#each Object.keys(customers[0]) as key}
+            <th>{key}</th>
+          {/each}
+        </tr>
+        {#each customers as customer}
+          <tr>
+            {#each Object.keys(customer) as key}
+              <td>{customer[key]}</td>
+            {/each}
+          </tr>
+        {/each}
+      {:else}
+        <p>No customer data available.</p>
+      {/if}
+    </table>
+  </section>
+</main>
